@@ -145,7 +145,6 @@ XHR.GET = function(path, callback) {
   this.xhttp.send(null);
 }
 
-
 /**
  *  Boot
  */
